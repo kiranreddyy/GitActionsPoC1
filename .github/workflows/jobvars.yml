@@ -1,6 +1,6 @@
-
+#https://docs.github.com/en/actions/using-jobs/defining-outputs-for-jobs
 # This is a basic workflow to help you get started with Actions
-name: CI
+name: Vars-test
 
 # Controls when the workflow will run
 on:
